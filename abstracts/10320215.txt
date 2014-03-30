@@ -1,0 +1,34 @@
+
+1. J Comp Neurol. 1999 May 10;407(3):333-48.
+
+Distribution of serotonin (5HT)-immunoreactive structures in the central nervous 
+system of two chondrostean species (Acipenser baeri and Huso huso).
+
+Adrio F(1), Anadón R, Rodríguez-Moldes I.
+
+Author information: 
+(1)Department of Fundamental Biology, Faculty of Biology, University of Santiago de 
+Compostela, Spain.
+
+The distribution of serotonin-immunoreactive (5HT-ir) elements was studied in the
+brain and rostral spinal cord of two chondrosteans, Acipenser baeri and Huso
+huso, by using an antibody against serotonin. The distribution of these elements 
+was similar in both sturgeon species. In the telencephalon, 5HT-ir cells were
+found in the olfactory bulb and in the medioventral wall of the telencephalic
+ventricle, rostral to the anterior commissure, the latter being cerebrospinal
+fluid-contacting (CSF-C) neurons. The diencephalon contained the highest number
+of 5HT-ir cell bodies, most of them of CSF-C type, located in the preoptic recess
+organ, paraventricular organ, posterior recess nucleus, and in the ventromedial
+thalamus. 5HT-ir non-CSF-C neurons appeared in the dorsal thalamic nucleus. In
+the brainstem, 5HT-ir neurons were located in four raphe nuclei (dorsal,
+superior, medial and inferior raphe nuclei) and four lateral reticular nuclei.
+The dorsal raphe nucleus contained 5HT-ir CSF-C cells, a type of serotoninergic
+cell that has not been described before in raphe nuclei of fishes or of other
+vertebrates. CSF-C and non-CSF-C 5HT-ir cells were observed in the spinal cord.
+5HT-ir fibers were also widely distributed in the central nervous system of both 
+sturgeon species. Comparison of these results with the distribution of
+serotoninergic systems in lampreys and other vertebrates suggests that widespread
+distribution of 5HT-ir cells is a feature of early vertebrate lines.
+
+PMID: 10320215  [PubMed - indexed for MEDLINE]
+

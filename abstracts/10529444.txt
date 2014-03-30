@@ -1,0 +1,37 @@
+
+1. Brain Res. 1999 Oct 16;845(1):60-7.
+
+Differential forebrain c-fos mRNA induction by ether inhalation and novelty:
+evidence for distinctive stress pathways.
+
+Emmert MH(1), Herman JP.
+
+Author information: 
+(1)Department of Anatomy and Neurobiology, University of Kentucky Medical Center,
+800 Rose Street, Lexington, KY 40536-0298, USA.
+
+Previous studies indicate the existence of subtypes of stressors invoking
+distinct patterns of neuronal integration. Pathways activated by stress appear to
+depend on whether the perceived threat is processive/neurogenic or systemic in
+nature. To test this hypothesis, the present study compares magnitude and extent 
+of c-fos mRNA induction in response to novelty (open field (OF), representing a
+processive stressor) or ether exposure (representing a systemic stressor).
+Exposure to the OF or ether fumes both produced increases in plasma
+corticosterone (CORT) levels; notably, peak levels of secretion were elevated in 
+the ether group, suggestive of augmented HPA secretory activity to this stressor.
+In situ hybridization analysis of c-fos mRNA induction reveals common and
+divergent activational properties in the two stress groups. The extent of c-fos
+mRNA expression was similar in the paraventricular nucleus (PVN), despite
+stress-related differences in CORT secretion. Analysis of the dorsomedial
+hypothalamic nucleus, suprachiasmatic nucleus (SCN) and limbic sites,
+specifically, the lateral septum and medial amygdaloid nucleus, indicate greater 
+c-fos mRNA induction in animals exposed to OF stress. The frontoparietal cortex
+was only forebrain region showing differential activation by ether. Differential 
+c-fos induction was not observed in the medial preoptic area (ventrolateral
+quadrant), paraventricular thalamus, dorsolateral striatum or hippocampus. The
+results indicate that processive and systemic stressors differ not only in the
+patterning of neuronal activation in the CNS, but also in the extent to which
+selected stress-sensitive regions are induced.
+
+PMID: 10529444  [PubMed - indexed for MEDLINE]
+

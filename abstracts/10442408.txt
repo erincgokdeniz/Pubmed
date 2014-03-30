@@ -1,0 +1,31 @@
+
+1. Exp Brain Res. 1999 Jul;127(2):162-70.
+
+Relationships between thalamostriatal neurons and pedunculopontine projections to
+the thalamus: a neuroanatomical tract-tracing study in the rat.
+
+Erro E(1), Lanciego JL, Giménez-Amaya JM.
+
+Author information: 
+(1)Departamento de Anatomía, Facultad de Medicina, Universidad de Navarra,
+C/Irunlarrea, S/N, Pamplona, Spain.
+
+The present study aimed to investigate whether the pedunculopontine projection to
+the thalamus overlaps with identified thalamostriatal neurons. These projections 
+were studied using a dual tract-tracing procedure combining anterogradely
+transported biotinylated dextran amine (pedunculopontine projections) and
+retrogradely transported Fluoro-Gold (thalamostriatal projections). Overlapping
+thalamic territories between thalamostriatal neurons and the axon terminals
+arising from the pedunculopontine tegmental nucleus were observed in the midline 
+(paraventricular) and in the intralaminar (centrolateral, central medial,
+paracentral and parafascicular) thalamic nuclei. Other thalamic nuclei, such as
+the ethmoid, intermediodorsal, mediodorsal, paratenial, posteromedian,
+ventromedian, ventrolateral and rhomboid thalamic nuclei, displayed a lesser
+degree of overlap. These observations suggest the existence of presumptive
+contacts between thalamostriatal neurons and axons emerging from the
+pedunculopontine tegmental nucleus, therefore supporting the possible existence
+of feedback circuits in the rat basal ganglia in which the tegmento-thalamic
+projection would play a major role.
+
+PMID: 10442408  [PubMed - indexed for MEDLINE]
+

@@ -1,0 +1,38 @@
+
+1. Toxicol Sci. 1999 Mar;48(1):100-6.
+
+d-Fenfluramine produces neuronal degeneration in localized regions of the cortex,
+thalamus, and cerebellum of the rat.
+
+Schmued L(1), Slikker W, Clausing P, Bowyer J.
+
+Author information: 
+(1)Division of Neurotoxicology, National Center for Toxicological Research,
+Jefferson, Arkansas 72079, USA.
+
+d-Fenfluramine is a potent serotonin (5-HT) reuptake inhibitor/releaser and,
+until its recent recall, was prescribed as an anoretic agent. This study
+demonstrates that 10 mg/kg d-fenfluramine i.p., when administered to rats in a
+warm (27 degrees C) environment, produces neuronal degeneration within select
+brain regions. Degeneration was detected and localized using a recently developed
+fluorescent marker of neuronal degeneration, Fluoro-Jade. The most extensive
+cortical damage was in the anterior cingulate region. In the medial thalamus,
+degeneration was frequently seen within the intralaminar nuclei, and somewhat
+less frequently observed within the paraventricular nucleus, the mediodorsal
+nucleus, and the gelatinosis nucleus. Cerebellar damage occurred primarily in
+medial Purkinje cells and occasionally in granule cells or basket cells.
+Degeneration was not observed in either saline-injected control animals or in
+rats given even higher doses of 25 mg/kg d-fenfluramine but kept in a cooler
+environment (23 degrees C). The degeneration was clearly most prominent in
+animals with body temperatures of 41 degrees to 42 degrees C, but this
+degeneration was not seen in animals given saline that became extremely
+hyperthermic in a 37 degrees C environment. Behavioral signs such as tremors,
+myoclonus, rigidity, and splayed legs were seen in all animals with extensive
+neurodegeneration. The areas damaged by d-fenfluramine, when hyperthermia occurs,
+could play a role in the expression of the serotonin syndrome. Elevated
+extracellular 5-HT levels alone are probably not sufficient for neurotoxicity,
+and additional factors such as hyperthermia, regional specificity of 5-HT
+receptor subtypes, blood flow, and/or neuronal networks may be involved.
+
+PMID: 10330689  [PubMed - indexed for MEDLINE]
+

@@ -1,0 +1,37 @@
+
+1. J Chem Neuroanat. 1999 Jun;16(4):245-63.
+
+Afferents to the rostral olfactory bulb in sheep with special emphasis on the
+cholinergic, noradrenergic and serotonergic connections.
+
+Lévy F(1), Meurisse M, Ferreira G, Thibault J, Tillet Y.
+
+Author information: 
+(1)Laboratoire de Comportement Animal, INRA/CNRS URA 1291, Nouzilly, France.
+levy@tours.inra.fr
+
+The olfactory bulb (OB) is involved in the processing of olfactory information
+particularly through the activation of its afferents. To localize their cell
+origin in sheep, a specific retrograde fluorescent tracer, Fluoro-Gold, was
+injected into the olfactory bulb of seven ewes. By using immunocytochemical
+techniques, retrogradely labeled neurons were colocalized with choline
+acetyltransferase, tyrosine hydroxylase, dopamine-beta-hydroxylase and serotonin 
+to characterize cholinergic, noradrenergic and serotonergic Fluoro-Gold-labeled
+neurons. Most afferents originated from the ipsilateral side of the injection
+site. The OB received major inputs from the anterior olfactory nucleus (AON), the
+piriform cortex (PC), the olfactory tubercle, the diagonal band of Broca (DBB)
+and the amygdala. Other retrogradely labeled neurons were observed in the taenia 
+tecta, the septum, the nucleus of the lateral olfactory tract, the preoptic area,
+the lateral hypothalamic area, the mediobasal hypothalamus, the lateral part of
+the premammillary nucleus, the paraventricular nucleus of the hypothalamus, the
+paraventricular thalamic nucleus, the central grey, the substantia nigra (SN),
+the ventral tegmental area (VTA), the lateral nucleus to the interpeduncular
+nucleus (IIP), the raphe and the locus coeruleus (LC). Contralateral labeling was
+also found in the AON, the PC, the SN compacta, the VTA, the IIP and the LC.
+Cholinergic Fluoro-Gold-labeled neurons belonged to the horizontal and vertical
+branch of the DBB. Noradrenergic afferents came from the LC and serotoninergic
+afferents came from the medial raphe nuclei and the 1IP. These data are discussed
+in relation with olfactory learning in the context of maternal behavior in sheep.
+
+PMID: 10450873  [PubMed - indexed for MEDLINE]
+

@@ -1,0 +1,45 @@
+
+1. Neuroscience. 1999;92(3):1011-23.
+
+The distribution of 3,4-methylenedioxymethamphetamine "Ecstasy"-induced c-fos
+expression in rat brain.
+
+Stephenson CP(1), Hunt GE, Topple AN, McGregor IS.
+
+Author information: 
+(1)Department of Psychology, University of Sydney, NSW, Australia.
+
+Rats were injected with 3,4-methylenedioxymethamphetamine ("Ecstasy") and
+assessed for changes in locomotor activity and for the expression of the
+immediate early gene c-fos throughout the brain. A dose-dependent increase in
+locomotor activity was seen with 3,4-methylenedioxymethamphetamine (0, 5 and 20
+mg/kg) that continued for at least 2 h following administration. Dose-dependent
+increases in c-fos expression were seen in much of the cortex, forebrain,
+brainstem and cerebellum in rats given 3,4-methylenedioxymethamphetamine.
+Expression was pronounced in 5-hydroxytryptamine terminal regions including the
+medial prefrontal cortex, caudate-putamen, nucleus accumbens, olfactory tubercle,
+islands of Calleja, lateral septum, paraventricular hypothalamus and
+paraventricular thalamus. High levels of c-fos expression were also seen in the
+supraoptic and median preoptic nuclei, regions involved in the control of fluid
+balance and body temperature, respectively. This is potentially important since
+deaths in 3,4-methylenedioxymethamphetamine users have been linked to
+hyperthermia and hyponatremia. In the brainstem, two regions of high c-fos
+expression were Barrington's nucleus, which is involved in micturition, and the
+pontine reticular nucleus oralis, a region involved in motor control of
+mastication. Activation of this latter structure may partly explain the bruxism
+(grinding of the jaw) reported by human 3,4-methylenedioxymethamphetamine users. 
+Robust c-fos expression was seen in the cerebellum, particularly in the
+flocculus, and this may explain the reported deleterious effects of
+3,4-methylenedioxymethamphetamine on balance and co-ordination. Significant c-fos
+expression was also seen in the ventral tegmental area, amidst the cell bodies of
+mesolimbic and mesocortical dopamine neurons, and in the median and dorsal raphe,
+where the serotonergic innervation of the forebrain originates. Double-labelling 
+of fos-positive neurons with 5-hydroxytryptamine showed that only a small number 
+of serotonergic neurons in the raphe expressed c-fos following
+3,4-methylenedioxymethamphetamine. The widespread distribution of
+3,4-methylenedioxymethamphetamine-induced c-fos expression seen in this study can
+be linked to the profound alterations in physiological function, mood and
+behaviour produced by this drug.
+
+PMID: 10426541  [PubMed - indexed for MEDLINE]
+

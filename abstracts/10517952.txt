@@ -1,0 +1,34 @@
+
+1. Brain Res. 1999 Sep 4;840(1-2):56-64.
+
+Differences in hypothalamic 2-[125I]iodomelatonin binding in photoresponsive and 
+non-photoresponsive white-footed mice, Peromyscus leucopus.
+
+Heideman PD(1), Kane SL, Goodnight AL.
+
+Author information: 
+(1)Department of Biology, The College of William and Mary, Williamsburg, VA, USA.
+heideman@wm.edu
+
+Photoperiod is an environmental cue used by many temperate-zone species to
+regulate their reproductive timing. Within species, the degree of reproductive
+photoresponsiveness can vary widely both among and within populations. The
+neuroendocrine mechanisms causing this individual variation in
+photoresponsiveness are unknown. Using selected lines from a population of
+white-footed mice known to vary genetically in reproductive photoresponsiveness, 
+we tested the hypothesis that variation in the number and/or location of
+melatonin receptors is the basis for individual differences in reproductive
+photoresponsiveness. The brains and pars tuberalis of the pituitary from sixteen 
+mice, (eight mice from each of two lines selected for two generations to respond 
+strongly or weakly to photoperiod), were processed for autoradiography using the 
+radioligand 2-[125I]-iodomelatonin (IMEL). We found significantly higher specific
+IMEL binding in the medial preoptic area and the bed nucleus of the stria
+terminalis of non-responsive mice than responsive mice. There were no differences
+between groups in specific IMEL binding in the suprachiasmatic and dorsomedial
+nuclei of the hypothalamus, pars tuberalis, or paraventricular nucleus of the
+thalamus. These results provide support for the hypothesis that individual
+variation in photoresponsiveness is due in part to differences in the density or 
+affinity of melatonin receptors.
+
+PMID: 10517952  [PubMed - indexed for MEDLINE]
+

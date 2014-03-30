@@ -1,0 +1,31 @@
+
+1. Int J Dev Neurosci. 1999 Jul;17(4):331-45.
+
+Developmental expression of calretinin-immunoreactivity in the thalamic eminence 
+of the fetal mouse.
+
+Abbott LC(1), Jacobowitz DM.
+
+Author information: 
+(1)Department of Veterinary Anatomy and Public Health, College of Veterinary
+Medicine, Texas A&M University, College Station 77843-4458, USA.
+
+An investigation of the developmental expression of calretinin immunoreactivity
+and mRNA expression was carried out in the developing mouse diencephalon.
+Attention was focused on the thalamic eminence, which is a prominent structure
+previously described in the thalamus of the fetal mammalian diencephalon and
+adult lower vertebrates. Calretinin-positive staining was first observed in the
+thalamic eminence beginning at embryonic day 11. In situ hybridization
+histochemistry confirmed the presence of calretinin mRNA in the thalamic
+eminence. During subsequent embryonic development calretinin expression was very 
+intense in neurons in the thalamic eminence though embryonic day 17, and
+thereafter, was increasingly difficult to distinguish. By postnatal day 0 the
+thalamic eminence was no longer discernable. Additional neurons within the murine
+diencephalon also expressed calretinin positive cell bodies and, or neuronal
+processes, including the stria medullaris, the habenular commissure and the
+paraventricular thalamic nucleus. It is possible that the thalamic eminence may
+form during development in order to act as an organizing center for the
+diencephalon.
+
+PMID: 10479068  [PubMed - indexed for MEDLINE]
+
